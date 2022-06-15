@@ -1,0 +1,77 @@
+body {
+  
+}
+
+li { 
+    float: left;
+    padding: 15px;;
+    list-style: none;
+    font-size: 30px;
+    flex-direction: row;
+
+  } 
+  
+  /* a {
+    display: inline-block;
+    padding: 15px;
+  } */
+
+  .navbar {
+    border: solid;
+    background-color:#a13030;
+    border-color: #a13030;
+    height: 90px;
+    width: 2394px;
+    margin: -10px;
+    color: black;
+    display: flex;
+    justify-content:flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ .navbar a {
+   color: white;
+  justify-content: space-around;
+  padding-left: 40px;
+ }
+
+ .header {
+   display: flex;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+
+ }
+
+ .main {
+   display: flex;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 0px 700px;
+ }
+
+ .overmij {
+  border: solid;
+  font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ .ditspeelik {
+  
+ }
+
+ .contact {
+  
+ }
+
+ .tipsentricks {
+  
+ }
+
+ a:hover {
+   background-color:#aa4e4e;
+ }
+
+ .img {
+  margin-left: 100px;
+ }
